@@ -1,6 +1,5 @@
 <template>
   <MainNav />
-  <main-nav></main-nav>
 </template>
 
 <script>
